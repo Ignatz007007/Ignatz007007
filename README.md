@@ -1,15 +1,65 @@
-Yo! My name is Ignacy, though Igantz sounds better in english, doesn't it?
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  h1 {
+    color: #2c3e50;
+  }
+  h2 {
+    color: #2980b9;
+  }
+  .flags img {
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+</style>
+</head>
+<body>
 
-I am currently studying programming at my High School, though I am considering switching to pursue something more biology-oriented instead.
-I'd prefer a mix of both, we'll see where that takes me.
+<h1>👋 Yo! I'm Ignacy (or Igantz, if that sounds cooler to you!)</h1>
 
-I have an interest in video games and 3D modelling.
+<p>
+I’m currently a high school student studying programming. While I enjoy diving into code, I’m also considering switching gears to explore something biology-oriented—maybe even a mix of both. Who knows where this journey will take me?
+</p>
 
-Right now I'm focusing on studying python, though I also know the basic front-end trifecta and PHP.
+<h2>🎮 Interests</h2>
+<ul>
+  <li>Video games 🎮</li>
+  <li>3D modeling 🖌️</li>
+</ul>
 
-I can speak these languages:
+<h2>🧑‍💻 Tech Focus</h2>
+<p>
+Right now, I’m focused on learning Python 🐍, but I’ve also dipped my toes into the front-end trifecta (HTML, CSS, JavaScript) and PHP.
+</p>
 
-![Flag_of_Poland svg](https://github.com/user-attachments/assets/9a2ca7f8-e297-4b50-ba17-bcd104e59b2f) (native) <br>
-![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/255px-Flag_of_France.svg.png) (spent some time there) <br>
-![Flag of UK](https://github.com/user-attachments/assets/4bc8c736-d605-4a7a-a22a-67bd20758f13) (my favorite)
+<h2>🌍 Languages I Speak</h2>
+<div class="flags">
+  <p>
+    <img src="https://github.com/user-attachments/assets/9a2ca7f8-e297-4b50-ba17-bcd104e59b2f" alt="Polish flag"> Polish (native)
+  </p>
+  <p>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/255px-Flag_of_France.svg.png" alt="French flag"> French (spent some time there)
+  </p>
+  <p>
+    <img src="https://github.com/user-attachments/assets/4bc8c736-d605-4a7a-a22a-67bd20758f13" alt="UK flag"> English (my favorite!)
+  </p>
+</div>
 
+<h2>🚀 What’s Next?</h2>
+<p>
+I’m always looking to learn and grow, whether that’s mastering a new programming language, exploring game development, or crafting 3D models. The future’s wide open!
+</p>
+
+<p>
+Feel free to connect or check out my projects. Let’s create something awesome together!
+</p>
+
+</body>
+</html>
