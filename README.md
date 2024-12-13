@@ -9,6 +9,6 @@ Right now I'm focusing on studying python, though I also know the basic front-en
 
 I can speak these languages:
 
-![alt text](<a href="https://imageresizer.com/" target="_blank">) (native)
+![alt text]() (native)
 ![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/255px-Flag_of_France.svg.png) (spent some time there)
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg)  (my favorite)
