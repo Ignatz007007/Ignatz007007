@@ -1,16 +1,14 @@
-## Hi there 👋
+Yo! My name is Ignacy, though Igantz sounds better in english, doesn't it?
 
-<!--
-**Ignatz007007/Ignatz007007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying programming at my High School, though I am considering switching to pursue something more biology-oriented instead.
+I'd prefer a mix of both, we'll see where that takes me.
 
-Here are some ideas to get you started:
+I have an interest in video games and 3D modelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm focusing on studying python, though I also know the basic front-end trifecta and PHP.
+
+I can speak these languages:
+
+🇵🇱 (native)
+🇫🇷 (spent some time there)
+🇬🇧 (my favorite)
