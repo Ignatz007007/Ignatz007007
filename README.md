@@ -6,7 +6,7 @@ Right now I'm focusing on studying python, though I also know the basic front-en
 <hr>
 I have an interest in video games and 3D modelling.
 <hr>
-I can speak these languages: <br>
+I can speak these languages: <br><br>
 
 <div class="flags">
   <p>
