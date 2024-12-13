@@ -6,6 +6,7 @@ Right now I'm focusing on studying python, though I also know the basic front-en
 I have an interest in video games and 3D modelling.
 <hr>
 I can speak these languages:
+
 <div class="flags">
   <p>
     <img src="https://github.com/user-attachments/assets/9a2ca7f8-e297-4b50-ba17-bcd104e59b2f" alt="Polish flag"> Polish (native)
