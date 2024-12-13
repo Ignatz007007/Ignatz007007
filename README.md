@@ -9,6 +9,6 @@ Right now I'm focusing on studying python, though I also know the basic front-en
 
 I can speak these languages:
 
-🇵🇱 (native)
-🇫🇷 (spent some time there)
-🇬🇧 (my favorite)
+:flag_poland: (native)
+:flag_france: (spent some time there)
+:flag_united_kingdom: (my favorite)
