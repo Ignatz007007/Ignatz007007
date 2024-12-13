@@ -1,24 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    color: #333;
-  }
-  h1 {
-    color: #2c3e50;
-  }
-  h2 {
-    color: #2980b9;
-  }
-  .flags img {
-    height: 20px;
-    vertical-align: middle;
-    margin-right: 10px;
-  }
-</style>
+
 </head>
 <body>
 
