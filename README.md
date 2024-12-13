@@ -9,6 +9,7 @@ Right now I'm focusing on studying python, though I also know the basic front-en
 
 I can speak these languages:
 
-![alt text]() (native)
+(![Flag_of_Poland svg](https://github.com/user-attachments/assets/9a2ca7f8-e297-4b50-ba17-bcd104e59b2f) (native)
 ![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/255px-Flag_of_France.svg.png) (spent some time there)
-![alt text](https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg)  (my favorite)
+![Flag of UK](https://github.com/user-attachments/assets/4bc8c736-d605-4a7a-a22a-67bd20758f13) (my favorite)
+
